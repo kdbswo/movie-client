@@ -1,3 +1,3 @@
-export default function Home() {
-  return <div></div>;
+export default function Movies() {
+  return <div>This is a list of movies.</div>;
 }
